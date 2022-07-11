@@ -20,8 +20,8 @@ def markdown_to_text(md):
     return BeautifulSoup(html,features='html.parser').get_text()
 
 # REDDIT INSTANCE FOR PRAW TO HELP US SCRAPE
-r = praw.Reddit(username="abhigotbars",
-                     password="abhiMANI123",
+r = praw.Reddit(username="****",
+                     password="****",
                      client_id="****",
                      client_secret="****",
                      user_agent="tokbot"
