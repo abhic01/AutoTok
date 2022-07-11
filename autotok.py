@@ -22,8 +22,8 @@ def markdown_to_text(md):
 # REDDIT INSTANCE FOR PRAW TO HELP US SCRAPE
 r = praw.Reddit(username="abhigotbars",
                      password="abhiMANI123",
-                     client_id="fpIBKgUF93JdrUd23qx7ew",
-                     client_secret="Yt0iCsqbsCbEpYqxGRyMo3T5ttYu5Q",
+                     client_id="****",
+                     client_secret="****",
                      user_agent="tokbot"
                      )
 
